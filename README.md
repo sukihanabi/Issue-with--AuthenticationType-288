@@ -1,6 +1,7 @@
 # Issue-with--AuthenticationType-288
 Issue with " -AuthenticationType" #288
 
+PinkU
 黒 / 黒い (kuro / kuroi) / ブラック (burakku)
 白 / 白い (shiro / shiroi) - white; good guy; 'white hat'
 赤 / 赤い (aka / akai); 丹色 (ni-iro)
